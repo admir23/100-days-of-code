@@ -9,3 +9,6 @@ Working on the Outdoor landing page. Learning about the advanced options in CSS/
 
 ### R1D2
 Working on the Outdoor landing page. Learning about the advanced options in CSS/SaSS.
+
+### R1D3
+Working on the Outdoor landing page. Learning about the advanced options in CSS/SaSS.
